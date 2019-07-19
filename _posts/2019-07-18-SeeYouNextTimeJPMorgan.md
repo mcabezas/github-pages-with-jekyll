@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "See you"
 date: 2019-01-20
 ---
 
